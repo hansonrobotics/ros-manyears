@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #include "asiosys.h"
 #include "asio.h"
 

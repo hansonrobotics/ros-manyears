@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #include <manyears_ros/manyears_node.hpp>
 #include "manyears_config.hpp"
 #include "global_value.h" // ManyEars static consts.

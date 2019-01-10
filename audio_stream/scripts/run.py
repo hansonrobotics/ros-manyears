@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Copyright (c) 2013-2018 Hanson Robotics, Ltd.
 import pyaudio
 import contextlib
 import rospy

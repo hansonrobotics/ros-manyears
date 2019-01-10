@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 /// \file stream_player.cpp Simple raw stream player that outputs a sequence of
 ///                         AudioStream messages from standard input.
 

@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 /*
 	IASIOThiscallResolver.cpp see the comments in iasiothiscallresolver.h for
     the top level description - this comment describes the technical details of

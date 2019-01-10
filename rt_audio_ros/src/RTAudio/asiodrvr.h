@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 /*
 	Steinberg Audio Stream I/O API
 	(c) 1996, Steinberg Soft- und Hardware GmbH

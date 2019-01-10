@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 /// \file stream_extract.cpp A simple tool that writes raw audio files from a
 ///                          rt_audio_ros stream.
 ///                          NOTE: Disabled VAD input support.

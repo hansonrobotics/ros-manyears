@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #ifndef GLOBAL_VALUE_H_
 #define GLOBAL_VALUE_H_
 
