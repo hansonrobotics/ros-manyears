@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) 2017 Hanson Robotics, Ltd. 
 
 import rospy
 import math

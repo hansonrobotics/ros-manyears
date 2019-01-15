@@ -1,3 +1,4 @@
+# Copyright (c) 2017 Hanson Robotics, Ltd. 
 # DO NOT USE
 # python setup.py install
 
