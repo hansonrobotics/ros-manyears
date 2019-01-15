@@ -1,4 +1,4 @@
-# sound
+# ROS-ManyEars
 ManyEars multi-microphone (microphone array) sound localization system. 
 Using multiple microphones built into the robot body, together with some
 custom electronics, the ManyEars system attempts to determine the direction
